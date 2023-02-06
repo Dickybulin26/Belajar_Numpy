@@ -15,7 +15,7 @@ print(y)
 
 plt.figure(1)
 plt.plot(x,y)
-
+# plt.show()
 
 #* lingkaran 
 jari2 = 5

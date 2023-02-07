@@ -1,7 +1,6 @@
 
 #! memvisualisasikan data dengan matplotlib dan numpy
 import numpy as np
-import matplotlib
 import matplotlib.pyplot as plt
 
 #* persamaan garis
